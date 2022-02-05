@@ -17,6 +17,7 @@ social:
 organizations:
   - name: 腾讯
     url: ""
+email: 897645159@qq.com
 superuser: true
 status:
   icon: ☕️
